@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.cabecalho {
+    background-color: yellow;
+    height: 100px;
+    text-align: left;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.principal {
+    display: flex;
+    height: 300px;
+}
+
+.menu {
+    width: 30%;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.conteudo {
+    width: 70%;
+    background-color: lightsalmon;
+    padding: 20px;
+    font-weight: bold;
+}
+
+.rodape {
+    background-color: darkgreen;
+    color: white;
+    height: 40px;
+    padding: 10px;
+    font-weight: bold;
+}
